@@ -1,0 +1,19 @@
+{
+  "name": "friendstalker",
+  "version": "1.0.0",
+  "description": "A full friendly game using express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkim85/friend-stalker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkim85/friend-stalker/issues"
+  },
+  "homepage": "https://github.com/dkim85/friend-stalker#readme"
+}
